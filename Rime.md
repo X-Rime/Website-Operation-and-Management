@@ -52,7 +52,10 @@ Reddit:  <div align=center><img width="500" height="350" src="https://github.com
 缺点：翻墙「smile」
 
 ### 总分37分
+#### BTW:别人页面内的图：
+<div align=center><img width="500" height="1550" src="https://github.com/XiongXiongHandsome/Website-Operation-and-Management/blob/master/images/x1.jpg"/></div>
 
-
+#### 我们页面上的图：
+<div align=center><img width="500" height="350" src="https://github.com/XiongXiongHandsome/Website-Operation-and-Management/blob/master/images/x2.jpg"/></div>
 
 
